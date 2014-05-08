@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F53898D-AF45-411F-B268-5363C85FAD6D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TVDB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14D0F0FE-4316-4E33-A622-49F9EBFA6B2D</key>
+		<string>https://github.com/zt1991616/WorkSpace.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TVDB/TVDB.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14D0F0FE-4316-4E33-A622-49F9EBFA6B2D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zt1991616/WorkSpace.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14D0F0FE-4316-4E33-A622-49F9EBFA6B2D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14D0F0FE-4316-4E33-A622-49F9EBFA6B2D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WorkSpace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
